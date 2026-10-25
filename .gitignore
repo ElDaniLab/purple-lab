@@ -1,0 +1,10 @@
+.obsidian/
+*.iso
+*.vdi
+*.vmdk
+*.qcow2
+*.ova
+.env
+*.key
+*.pem
+.DS_Store
